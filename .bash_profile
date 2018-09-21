@@ -22,5 +22,6 @@ alias lsp="htop"
 alias cpclip='function _cpclip(){ cat $1 | pbcopy;  };_cpclip'
 # --- Angular ---------------------------------------------------------------
 alias ngc="ng generate component"
+alias ngs="ng generate service"
 # --- Misc ------------------------------------------------------------------
 # alias ng="/Users/stefandanielpetcu/.npm_local_modules/node_modules/@angular/cli/bin/ng" 
