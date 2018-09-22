@@ -3,7 +3,7 @@
 
 # Aliases
 # --- Filesystem ------------------------------------------------------------
-alias ll="ls -altF" # list all files and directories (including hidden files), ordered by modification time (newest first) and with the character denoting item type added (e.g., "/" after folder types)
+alias ll="ls -alF" # list all files and directories (including hidden files), ordered alphabetically and with the character denoting item type added (e.g., "/" after folder types)
 alias cdp="cd  ~/Desktop/Projects/"
 alias resrc="source ~/.bash_profile"
 alias mkdir="mkdir -pv"
